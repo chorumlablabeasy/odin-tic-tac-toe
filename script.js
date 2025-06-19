@@ -80,6 +80,7 @@ const GameController = (function() {
             return null;
         }
     };
+    
     return {
         playRound
     }
